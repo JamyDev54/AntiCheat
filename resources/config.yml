@@ -1,0 +1,6 @@
+//Message du joueur quand le joueur se fait expulsé
+msg_kick: "Vous avez été expulsé du serveur par l'anti-cheat"
+
+//Message dans le chat quand le joueur se fait expulsé
+// {player} = Le joueur
+msg_chat: "{player} a été expulsé du serveur par l'anti-cheat"
